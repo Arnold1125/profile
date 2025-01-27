@@ -85,7 +85,7 @@ div {
 }
 
 .list-inline > li {
-  display: inline-block;
+  display: none;
   padding: 10px;
 }
 
